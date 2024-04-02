@@ -1,0 +1,28 @@
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The files do not have appropriate permissions: [Errno 13] Permission denied: 'test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The files do not have appropriate permissions: [Errno 13] Permission denied: 'test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: 'new_files/test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The files do not have appropriate permissions: [Errno 13] Permission denied: 'new_files/test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The files do not have appropriate permissions: [Errno 13] Permission denied: 'new_files/test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The files do not have appropriate permissions: [Errno 13] Permission denied: 'new_files/test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The file does not exist: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
+ERROR:root:The files do not have appropriate permissions: [Errno 13] Permission denied: 'new_files/test_download.txt'
+ERROR:root:An error occurred: Path invalid
+ERROR:root:An error occurred: [Errno 2] No such file or directory: '/Users/viki_m/Desktop/projects/WiseryTask/do.txt'
